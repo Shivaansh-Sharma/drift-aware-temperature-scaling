@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary files
+temp/
+tmp/
+
+# Environment variables
+.env
+
+# Data / outputs
+data/
+outputs/
+results/
+checkpoints/
+runs/
+
+# PyTorch
+*.pt
+*.pth
+
+# Model artifacts
+models/
+
+# Git
+.git/
